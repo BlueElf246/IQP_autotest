@@ -9,9 +9,9 @@ import re
 # CONFIG
 # =========================
 
-BASE_URL = "https://iqp.fngt.pro"
-USERNAME = "hungnx22@example.com"
-PASSWORD = "F2am4wV533001"
+BASE_URL = "..."
+USERNAME = "..."
+PASSWORD = "..."
 
 GRAPH_NAME = "a1"
 
